@@ -15,6 +15,8 @@ This project will teach you how to
   - Participate 
   - Contribute 
 
+> Any questions feel free to reach me at it-bud@yahoo.com 
+
 
 ## Contributors ✨
 
