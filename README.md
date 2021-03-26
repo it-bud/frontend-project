@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Welcome to the Project for First Time Contributors.
 
-## The objective of the Project is to enable new contributors to contribute in the Open Source Projects 
+## I understand how easy it is to get lost in the Open Source Project. This is the major objective of the Project is to enable new contributors to contribute in the Open Source Projects. This project will teach you all about Git and how to contribute. 
 
 [Contribution guidelines for this project](./CONTRIBUTING.md)
 
