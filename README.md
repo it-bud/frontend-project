@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Welcome to the Project for First Time Contributors.
 
@@ -27,6 +27,7 @@ Thanks goes to these wonderful people 🧑‍🏫 🚧:
   <tr>
     <td align="center"><a href="https://github.com/Saurav-Sutaria"><img src="https://avatars.githubusercontent.com/u/73012044?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurav Sutaria</b></sub></a><br /><a href="https://github.com/it-bud/frontend-project/commits?author=Saurav-Sutaria" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/t-rhex"><img src="https://avatars.githubusercontent.com/u/44456213?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrew A</b></sub></a><br /><a href="https://github.com/it-bud/frontend-project/commits?author=t-rhex" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/saurabh853"><img src="https://avatars.githubusercontent.com/u/56359197?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurabh Tiwari</b></sub></a><br /><a href="https://github.com/it-bud/frontend-project/commits?author=saurabh853" title="Documentation">📖</a></td>
   </tr>
 </table>
 
